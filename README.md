@@ -1,2 +1,1 @@
-# titanic_survival_prediction
-titanic_survival_prediction
+This is a Kaggle competition.
