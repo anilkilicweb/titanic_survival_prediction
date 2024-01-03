@@ -1,1 +1,1 @@
-This is a Kaggle competition.
+This is a Kaggle competition. https://www.kaggle.com/competitions/titanic
